@@ -1,4 +1,4 @@
-![logo](https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Umar Khan</h1>
 <h3 align="center">A Passionate Software Engineering Student</h3>
 
